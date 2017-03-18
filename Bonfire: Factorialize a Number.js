@@ -8,8 +8,6 @@ Factorials are often represented with the shorthand notation n!
 For example: 5! = 1 * 2 * 3 * 4 * 5 = 120
 */
 
-//My Solution:
-
 function factorialize(num) {
   var facto = 1;
   for (i = 1; i <= num; i++) 
